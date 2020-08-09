@@ -1,4 +1,4 @@
-# notebook
+# a NoteKeeper Application
 
 A new Flutter application.
 
